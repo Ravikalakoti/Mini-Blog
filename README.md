@@ -12,4 +12,9 @@
   <li>After Login come in Dashboard page and there is add post button by click on it You can create your blogs.</li>
   <li>you can edit or delete your post.</li>
 </ol>
-<h4>Now the blog made by you are in front of you</h4>
+<h4>Now the blog made by you are in front of you in the DashBoard page</h4>
+<ul>
+  <li>Now the Dashboard page in front of you</li>
+  <li>Now you can Edit and Delete your Blog</li>
+  <li>you can also add your new post</li>
+</ul>
